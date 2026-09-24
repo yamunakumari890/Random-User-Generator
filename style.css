@@ -6,7 +6,7 @@
 
 body{
   font-family: Arial, sans-serif;
-  background: #f4f7fb;
+  background: #C2A5CC;
 
   display: flex;
   justify-content: center;
@@ -24,6 +24,7 @@ body{
 h1{
   margin-bottom: 20px;
   color: #1f2937;
+  font-size: 25px;
 }
 
 .user-card{
