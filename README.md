@@ -31,6 +31,6 @@ This project uses the Random User Api to generate fictional user profiles for le
 
 This Project uses the random User API to generate fictional user data.
 
-API EndPoint: 'https://randomuser.me/api/'(Project use)
+API EndPoint: 'https://randomuser.me/api/' (Project use)
 
-API EndPoint: 'https://randomuser.me/api/?nat=in'(only Indian's users)
+API EndPoint: 'https://randomuser.me/api/?nat=in' (only Indian's users)
